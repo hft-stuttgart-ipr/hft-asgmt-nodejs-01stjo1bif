@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-nodejs-01stjo1bif.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-nodejs-USERNAME)
+[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-nodejs-01stjo1bif.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-nodejs-01stjo1bif)
 
 # hft-asgmt-nodejs
 
